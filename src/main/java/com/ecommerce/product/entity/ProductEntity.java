@@ -13,7 +13,7 @@ public class ProductEntity {
     private long id;
     private String name;
     private String price;
-	private String surname;
+
 	public ProductEntity() {
 		super();
 		// TODO Auto-generated constructor stub
